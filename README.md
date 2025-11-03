@@ -38,3 +38,9 @@ https://github.com/user-attachments/assets/7693a7d4-1b6a-4ab0-9fd1-2f67bb3d6ce0
 1. In Firefox, customize your toolbar to **pin the extension** for visibility.  
 2. Click the extension icon to **toggle** between **Turn On** and **Turn Off**.  
 3. With the extension **enabled** and your **policy configured**, visit a target destination to verify it is isolated.
+
+## License
+Licensed under MIT — free to use, modify, and share, with no warranty.
+
+## Disclaimer
+This project is **not affiliated with or supported by Netskope**. It may be incomplete, outdated, or inaccurate. Use at your own risk. 
