@@ -1,4 +1,4 @@
-# Netskope Isolation Management
+# Netskope Isolation Management for Firefox
 A Firefox extension that streamlines sending browser traffic through Netskope Remote Browser Isolation. Instead of relying on complex HTTP header management tools, this extension adds a simple `Isolate: true` header to all outgoing requests when enabled, allowing Netskope policies to easily target and isolate traffic.
 
 # Demo
